@@ -1,0 +1,160 @@
+{
+    "votes": [
+        {
+            "voter_id": "1234567",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "1234",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "nid123",
+            "candidate": "ABC"
+        },
+        {
+            "voter_id": "123",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "12345",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "9972",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "87689",
+            "candidate": "CGP"
+        },
+        {
+            "voter_id": "10909",
+            "candidate": "LTN"
+        },
+        {
+            "voter_id": "6577",
+            "candidate": "XYZ"
+        },
+        {
+            "voter_id": "156",
+            "candidate": "XYZ"
+        }
+    ],
+    "voted_users": [
+        "1234567",
+        "1234",
+        "nid123",
+        "123",
+        "12345",
+        "9972",
+        "87689",
+        "10909",
+        "6577",
+        "156"
+    ],
+    "candidates": [
+        {
+            "name": "CGP",
+            "id": "C01"
+        },
+        {
+            "name": "LTN",
+            "id": "C02"
+        },
+        {
+            "name": "XYZ",
+            "id": "C03"
+        },
+        {
+            "name": "ABC",
+            "id": "C04"
+        }
+    ],
+    "otp_logs": [
+        {
+            "voter_id": "1234455",
+            "otp": "6514"
+        },
+        {
+            "voter_id": "1234567",
+            "otp": "7601"
+        },
+        {
+            "voter_id": "1234",
+            "otp": "5511"
+        },
+        {
+            "voter_id": "1234",
+            "otp": "9003"
+        },
+        {
+            "voter_id": "1234",
+            "otp": "4122"
+        },
+        {
+            "voter_id": "123",
+            "otp": "9311"
+        },
+        {
+            "voter_id": "nid123",
+            "otp": "4667"
+        },
+        {
+            "voter_id": "123",
+            "otp": "4583"
+        },
+        {
+            "voter_id": "12345",
+            "otp": "5343"
+        },
+        {
+            "voter_id": "123",
+            "otp": "8096"
+        },
+        {
+            "voter_id": "123",
+            "otp": "7113"
+        },
+        {
+            "voter_id": "9972",
+            "otp": "4772"
+        },
+        {
+            "voter_id": "876",
+            "otp": "2859"
+        },
+        {
+            "voter_id": "876",
+            "otp": "7909"
+        },
+        {
+            "voter_id": "87689",
+            "otp": "4280"
+        },
+        {
+            "voter_id": "10909",
+            "otp": "8926"
+        },
+        {
+            "voter_id": "10909",
+            "otp": "6680"
+        },
+        {
+            "voter_id": "6577",
+            "otp": "7078"
+        },
+        {
+            "voter_id": "156",
+            "otp": "9076"
+        },
+        {
+            "voter_id": "156",
+            "otp": "6522"
+        },
+        {
+            "voter_id": "123",
+            "otp": "9871"
+        }
+    ]
+}
